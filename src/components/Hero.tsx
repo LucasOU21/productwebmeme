@@ -18,7 +18,7 @@ export default function Hero() {
         <div className="mb-16">
          <div className="w-64 h-64 mx-auto mb-4 bg-gray-100 rounded-2xl flex items-center justify-center hover:scale-105 transition-transform duration-300">
             <img 
-              src="/src/assets/images/productmain.png" 
+              src="./images/productmain.png" 
               alt="blow - $PRODUCT"
               className="w-full h-full object-cover rounded-2xl"
             />
